@@ -68,6 +68,7 @@
 
 .about__content p {
     margin: 2rem 0 2.6rem;
+    text-align: left;
 }
 
 @media screen and (max-width: 1024px){
