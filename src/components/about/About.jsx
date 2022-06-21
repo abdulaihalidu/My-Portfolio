@@ -39,7 +39,7 @@ const About = () => {
           </div>
           <p>
             A self-motivated, reliable Computer Science Student with interest in{" "}
-            <b>Machine Learning</b> and <b>Web Application Technologies</b>{" "}
+            <b>Machine Learning</b> and <b>Web Application Technologies,</b>{" "}
             seeking for opportunities to expand my skills and gain valuable
             real-world experience.
           </p>
