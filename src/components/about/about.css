@@ -84,6 +84,15 @@
     .about__content p {
         margin: 1rem 0 1.5rem;
     }
+
+    .about__me-img {
+        border-radius: 5rem;
+        overflow: hidden;
+        transform: rotate(0deg);
+        aspect-ratio: 1/1;
+        transition: var(--transition);
+    
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -104,4 +113,13 @@
     .about__content p {
         margin: 1.5rem;
     }
+
+    .about__me-img {
+        border-radius: 5rem;
+        overflow: hidden;
+        transform: rotate(0deg);
+        aspect-ratio: 1/1;
+        transition: var(--transition);
+    
+        }
 }
