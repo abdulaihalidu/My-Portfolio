@@ -29,13 +29,21 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <AiOutlineMail className="contact__option-icon" />
+            <a href="mailto:abdulaihalidu008@gmail.com">
+              <AiOutlineMail className="contact__option-icon" />
+            </a>
             <h4>Email</h4>
             <h5>Abdulaihalidu008@gmail.com</h5>
             <a href="mailto:abdulaihalidu008@gmail.com">Send a Mail</a>
           </article>
           <article className="contact__option">
-            <BsWhatsapp className="contact__option-icon" />
+            <a
+              href="https://wa.me/905523114565"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <BsWhatsapp className="contact__option-icon" />
+            </a>
             <h4>WhatsApp</h4>
             <h5>+90 552 311 45 65</h5>
             <a
@@ -48,7 +56,13 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <SiMessenger className="contact__option-icon" />
+            <a
+              href="https://m.me/abdulaihalidujallo"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <SiMessenger className="contact__option-icon" />
+            </a>
             <h4>Messenger</h4>
             <h5>Abdulai Halidu</h5>
             <a
