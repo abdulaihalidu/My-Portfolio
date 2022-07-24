@@ -41,7 +41,9 @@ const About = () => {
             A self-motivated, reliable Computer Science Student with interest in{" "}
             <b>Machine Learning</b> and <b>Web Application Technologies,</b>{" "}
             seeking for opportunities to expand skills and gain valuable
-            real-world experience.
+            real-world experience. {" " }
+            My research Interest lies in machine learning, data science, and web application technologies. {" "}
+            I love programming and I enjoy learning new technologies
           </p>
           <a href="#contact" className="btn btn-primary">
             Get In Touch
