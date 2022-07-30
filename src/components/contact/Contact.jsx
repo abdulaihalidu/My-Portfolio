@@ -33,7 +33,6 @@ const Contact = () => {
               <AiOutlineMail className="contact__option-icon" />
             </a>
             <h4>Email</h4>
-            <h5>Abdulaihalidu008@gmail.com</h5>
             <a href="mailto:abdulaihalidu008@gmail.com">Send a Mail</a>
           </article>
           <article className="contact__option">
@@ -45,7 +44,6 @@ const Contact = () => {
               <BsWhatsapp className="contact__option-icon" />
             </a>
             <h4>WhatsApp</h4>
-            <h5>+90 552 311 45 65</h5>
             <a
               href="https://wa.me/905523114565"
               target="_blank"
@@ -64,7 +62,6 @@ const Contact = () => {
               <SiMessenger className="contact__option-icon" />
             </a>
             <h4>Messenger</h4>
-            <h5>Abdulai Halidu</h5>
             <a
               href="https://m.me/abdulaihalidujallo"
               target="_blank"
